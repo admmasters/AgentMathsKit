@@ -1,2 +1,2 @@
-# MathsLib
-A maths helper library in Swift - helpful with partial application
+# AgentMathsKit
+A maths helper library in Swift - designed with partial application in mind.
